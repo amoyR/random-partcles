@@ -43,7 +43,7 @@ class Particle {
   }
 }
 
-const num = 100
+const num = 1000
 const particles = []
 
 function createRanParticles() {
